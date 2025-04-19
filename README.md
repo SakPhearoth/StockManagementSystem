@@ -19,6 +19,5 @@ This system allows user to setup stock and catalogue for each stock.
 5. **Delete Product in Stock Catalogue by Name:**
    Remove products from the catalog.
 6. **View Insertion History in Stock Catalogue:**
-   Show past additions to the catalog.
 7. **Exit:**
    Terminate the program.
